@@ -1,1 +1,1 @@
-Small HTML page that I did while following FreeCodeCamp 'Responsive Web Desing Certification' course.
+Some projects from FreeCodeCamp Responsive Web Design course that i'm doing!
